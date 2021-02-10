@@ -45,3 +45,4 @@ client.on('ready', () => {
 });
 
 
+client.login(token)
